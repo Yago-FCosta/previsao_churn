@@ -1,4 +1,4 @@
-# Análise Vendas Videogames
+# Análise Previsão de Churn
 
 ## Descrição do Projeto
 Este projeto tem como objetivo desenvolver um modelo que possa prever se um cliente vai deixar um banco fictício em breve. 
